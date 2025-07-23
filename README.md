@@ -1,16 +1,24 @@
-# chatapp
+# 💬 ChatApp
 
-A new Flutter project.
+A real-time chat application built with Flutter and Firebase. Users can sign in, send messages, and receive them instantly in a smooth and responsive interface.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Firebase Authentication (email/password)
+- Real-time messaging using Firebase Realtime Database
+- Timestamps and sender/receiver distinction
+- Responsive chat interface with auto-scroll
+- Clean separation of UI and logic
 
-A few resources to get you started if this is your first Flutter project:
+## 🧪 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter, Dart
+- Firebase Auth
+- Firebase Realtime Database
+- StreamBuilder & ListView for dynamic UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
